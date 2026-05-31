@@ -3,13 +3,13 @@ FluentAI is an AI-powered English fluency coach that helps users improve their s
 
 ## Features
 
-* 🎙️ Real-time voice input
-* 📝 Speech-to-text transcription using Whisper
-* 🤖 AI-powered conversational responses
-* 🔊 Text-to-speech voice generation
-* 💬 Interactive English speaking practice
-* 🌐 User-friendly Streamlit interface
-* ⚡ Fast AI responses powered by Groq
+* Real-time voice input
+* Speech-to-text transcription using Whisper
+* AI-powered conversational responses
+* Text-to-speech voice generation
+* Interactive English speaking practice
+* User-friendly Streamlit interface
+* Fast AI responses powered by Groq
 
 ## Tech Stack
 
@@ -41,7 +41,7 @@ FluentAI is an AI-powered English fluency coach that helps users improve their s
 * Git
 * GitHub
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 +------------------+      +---------------------+      +------------------------+
