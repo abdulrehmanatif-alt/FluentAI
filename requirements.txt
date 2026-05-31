@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+ffmpeg-python
+groq
+streamlit-mic-recorder
+gtts
+torch
